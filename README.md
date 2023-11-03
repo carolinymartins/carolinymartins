@@ -10,6 +10,7 @@ _Hey there!_
  #### **My journey:**
 
  I've never had much contact with technologies, but everything changed when at the age of 15 I started a technical course in the area. There, I had contact with concepts of programming logic, network infrastructure, hardware, database and several **programming languages** such as:
+ 
  ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=ffff-background&color=9745f5)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white&background&color=9745f5)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor-background&color=9745f5)
