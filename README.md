@@ -5,7 +5,7 @@
 
 _Hey there!_
 
- My name is Caroliny aka _Cacau_. I´m 19 years old and now I´m studying to be a web developer. I am a computer technician, graduated at [ETEC](https://www.cps.sp.gov.br/etec/) in 2021. I am currently studying and preparing to enter the Information Systems course.
+ My name is Caroliny aka _Cacau_. I´m 19 years old and now I´m studying to be a web developer. I am a computer technician, graduated at [ETEC](https://www.cps.sp.gov.br/etec/) in 2021. 
 
  #### **My journey:**
 
