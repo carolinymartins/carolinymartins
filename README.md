@@ -14,7 +14,7 @@ _Hey there!_
  ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=ffff-background&color=9745f5)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white&background&color=9745f5)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor-background&color=9745f5)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff-background&color=9745f5)
 
 ### **DATABASE**
 
