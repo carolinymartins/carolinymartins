@@ -5,15 +5,16 @@
 
 _Hey there!_
 
- My name is Caroliny aka _Cacau_. I´m 19 years old and now I´m studying to be a web developer. I am a computer technician, graduated at [ETEC](https://www.cps.sp.gov.br/etec/) in 2021. 
+ My name is Caroliny aka _Cacau_. I´m 20 years old and I´m currently studying to be a web developer, majoring in Information Systems at [UNOESTE](https://www.unoeste.br/graduacao/faculdade-de-sistemas-informacao). I am a computer technician, graduated at [ETEC](https://www.cps.sp.gov.br/etec/) in 2021. 
 
  #### **My journey:**
 
- I've never had much contact with technologies, but everything changed when at the age of 15 I started a technical course in the area. There, I had contact with concepts of programming logic, network infrastructure, hardware, database and several **programming languages** such as:
+ I've never had much contact with technologies, but everything changed when at the age of 15 I started a technical course in the area. There, I had contact with concepts of programming logic, network infrastructure, hardware, database and **programming languages** such as:
  
  ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=ffff-background&color=9745f5)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white&background&color=9745f5)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor-background&color=9745f5)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 ### **DATABASE**
 
